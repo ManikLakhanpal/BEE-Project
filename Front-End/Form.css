@@ -36,6 +36,11 @@ body {
     min-width: 120px; 
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .nav-button:hover {
     background-color: hwb(281 7% 57%);
     transform: translateY(-3px); 

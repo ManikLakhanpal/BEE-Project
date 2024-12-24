@@ -1,2 +1,9 @@
 [
+  {
+    "firstName": "Naman",
+    "lastName": "Singh",
+    "email": "naman123@gmail.com",
+    "phone": "1234567890",
+    "gender": "male"
+  }
 ]

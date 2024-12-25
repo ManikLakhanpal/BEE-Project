@@ -67,7 +67,7 @@ const server = http.createServer((req, res) => {
           } else {
             res.writeHead(200, { 'Content-Type': 'text/html' });
             res.end(
-              'Registration successful! <a href="/Student_Details.html">View all students</a>'
+              'Registration successful! <a href="/Form.html">Back</a>'
             );
           }
         });

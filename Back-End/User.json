@@ -5,5 +5,26 @@
     "email": "naman123@gmail.com",
     "phone": "1234567890",
     "gender": "male"
+  },
+  {
+    "firstName": "Sujal ",
+    "lastName": "Garg",
+    "email": "sujal05@gmail.com",
+    "phone": "123456789",
+    "gender": "male"
+  },
+  {
+    "firstName": "Rahul",
+    "lastName": "Garg",
+    "email": "rahul@gmail.com",
+    "phone": "987654321",
+    "gender": "male"
+  },
+  {
+    "firstName": "Ojas",
+    "lastName": "Jindal",
+    "email": "ojas@gmail.com",
+    "phone": "987654321",
+    "gender": "male"
   }
 ]

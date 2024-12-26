@@ -1,1 +1,1 @@
-# BEE-Project
+# BEE Project
